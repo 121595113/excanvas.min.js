@@ -12,7 +12,7 @@ INSTALLATION
 Include the ExplorerCanvas tag in the same directory as your HTML files, and 
 add the following code to your page, preferably in the <head> tag.
 
-<!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
+<pre>&lt;!--[if IE]>&lt;script type="text/javascript" src="excanvas.js"&gt;&lt;/script&gt;&lt;![endif]--&gt;</pre>
 
 If you run into trouble, please look at the included example code to see how
 to best implement this
